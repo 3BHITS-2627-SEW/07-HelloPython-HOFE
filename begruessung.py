@@ -1,2 +1,1 @@
-name = input("Bitte geben Sie Ihren Namen ein: ")
-print(f"Hallo {name}!")
+print(f"Hallo {input("Bitte geben Sie Ihren Namen ein: ")}!")
